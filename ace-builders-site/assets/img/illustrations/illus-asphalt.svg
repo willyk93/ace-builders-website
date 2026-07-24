@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+
+<rect width="800" height="560" fill="#eaf4ec"/>
+<circle cx="120" cy="110" r="70" fill="#cfe4d5" opacity="0.6"/>
+<rect x="0" y="360" width="800" height="120" fill="#0b3a27"/>
+<g stroke="#faf8f3" stroke-width="10" stroke-dasharray="46 34" opacity="0.85">
+  <path d="M0 420h800"/>
+</g>
+<rect x="0" y="470" width="800" height="90" fill="#e4ddc8" opacity="0.5"/>
+
+<g transform="translate(430 230)">
+  <rect x="-40" y="30" width="220" height="90" rx="14" fill="#146c3a"/>
+  <rect x="-40" y="10" width="90" height="50" rx="10" fill="#0f4a30"/>
+  <rect x="-20" y="-40" width="34" height="50" rx="6" fill="#0b3a27"/>
+  <circle cx="-60" cy="150" r="46" fill="#06231a"/>
+  <circle cx="-60" cy="150" r="18" fill="#cfe4d5"/>
+  <circle cx="150" cy="150" r="46" fill="#06231a"/>
+  <circle cx="150" cy="150" r="18" fill="#cfe4d5"/>
+  <rect x="90" y="60" width="70" height="20" rx="8" fill="#1c7f42"/>
+</g>
+<g stroke="#cfe4d5" stroke-width="6" stroke-linecap="round" opacity="0.7">
+  <path d="M400 150c0-20 20-20 20-40s-20-20-20-40"/>
+</g>
+</svg>
